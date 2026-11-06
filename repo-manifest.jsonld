@@ -1,0 +1,14 @@
+{
+  "@context": "https://repolex.ai/ontology/jsonld-context/repolex-context.jsonld",
+  "@id": "https://repolex.ai/r/ansible-community/lightspeed-analysis-framework",
+  "@type": "gh:Repository",
+  "gh:name": "lightspeed-analysis-framework",
+  "gh:owner": "ansible-community",
+  "repolex:trackedCommit": [
+    {
+      "@id": "https://repolex.ai/r/ansible-community/lightspeed-analysis-framework/commit/27c76f2f89cd7b11c05aa54abffa422b9858a990",
+      "git:hexsha": "27c76f2f89cd7b11c05aa54abffa422b9858a990",
+      "repolex:parseStatus": "metadata_complete"
+    }
+  ]
+}

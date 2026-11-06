@@ -1,0 +1,37 @@
+{
+  "manifest_version": "1.0",
+  "org": "ansible-community",
+  "repo": "lightspeed-analysis-framework",
+  "versions": [
+    {
+      "commit": "27c76f2f89cd7b11c05aa54abffa422b9858a990",
+      "parsed_at": "2026-11-06T15:41:30.177250+00:00",
+      "filetree": "filetree/27c76f2f89cd7b11c05aa54abffa422b9858a990.nq.gz",
+      "blobs": [
+        "blob/56eec7d40dd9396ddceb1498aa28cdf95a0a7c95.nq.gz",
+        "blob/ad1c79c729f3c281d1c9d1fb00e3939f46bf00f8.nq.gz",
+        "blob/1522a74f3a34134decab5e5437785b2b6a26c5b7.nq.gz",
+        "blob/753adfbe70e0e6078f9afeb38749cee79e366aa1.nq.gz",
+        "blob/dabe38e1eabe119e5fff68e0b99d475b6c42bb63.nq.gz",
+        "blob/952a7f45d19a736869212e97830737c4815c21d9.nq.gz",
+        "blob/8998330b78cc23156820e85c7c5fce717fa19ec6.nq.gz",
+        "blob/a223f75ceaf90c52d46232acf89bc5e29fb112d5.nq.gz",
+        "blob/be4a62c8af1dd5959819c115cb7c8f820531b800.nq.gz",
+        "blob/9b2be5703d311fc095f02e8ada6d2e2b26b28643.nq.gz",
+        "blob/892aeafd5213011db36997efcd14ef5d61be6ecf.nq.gz",
+        "blob/9a8da14bab4b15f798b4ee757e1c96d0991f9dbc.nq.gz",
+        "blob/b5562c5a79944d8d7c8bc349688e0a8faf60d378.nq.gz",
+        "blob/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391.nq.gz",
+        "blob/41dbaa172ae30837b972b4e77ef2e26a68e3dc0b.nq.gz",
+        "blob/a02f13beaef238365d086df814a601e18fb9415a.nq.gz",
+        "blob/c31d6d0ab3a3e6d12ff1a82676d9cd2ad6d78a09.nq.gz",
+        "blob/261eeb9e9f8b2b4b0d119366dda99c6fd7d35c64.nq.gz",
+        "blob/c1a19a16dca0f9951883ba65e073d99e6ddd0e69.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
