@@ -1,0 +1,11 @@
+{
+  "org": "ansible-community",
+  "repo": "lightspeed-analysis-framework",
+  "versions": [
+    {
+      "commit": "27c76f2f89cd7b11c05aa54abffa422b9858a990",
+      "tag": "",
+      "parsed_at": "2026-11-06T15:43:34.952087+00:00"
+    }
+  ]
+}
